@@ -1,0 +1,12 @@
+.frasesContainer{
+  background-color: rgb(42, 4, 77);
+  border-radius: 6px;
+  border: 1px solid #4b0352;
+
+}
+
+.frasesContent{
+  color: white;
+  background-color: #61056971;
+  margin: 0;
+}
