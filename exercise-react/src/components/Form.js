@@ -22,7 +22,7 @@ function Form() {
           <input type="text" id="name" placeholder="Digite seu nome" onChange={(e) => setName(e.target.value)} />
         </div>
         <div>
-          <label htmlFor="password" >Senha</label>
+          <label htmlFor="password" >Senhaa</label>
           <input type="pssword" id="password" placeholder="Digite a sua senha"  onChange={(e) => setPassword(e.target.value)}  />
         </div>
         <div>
